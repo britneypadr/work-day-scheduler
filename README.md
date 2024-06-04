@@ -5,11 +5,11 @@ A simple calendar app for scheduling your work day.
 ## Features
 
 - Displays the current day at the top of the calendar.
-- Presents time blocks for standard business hours (9am to 5pm).
-- Color-codes each time block to indicate whether it is in the past, present, or future.
+- Presents time blocks for standard business hours (9 am to 5 pm).
+- Color codes each time block indicate whether it is in the past, present, or future.
 - Allows users to enter events into time blocks.
 - Saves events to local storage.
-- Persistently displays saved events even after page refresh.
+- It consistently displays saved events even after a page refresh.
 
 ## Technologies Used
 
@@ -36,7 +36,7 @@ git clone https://github.com/britneypadr/work-day-scheduler.git
 
 ## Credits
 
-This project was inspired by the daily planner concept and uses the following libraries and frameworks:
+The daily planner concept inspired this project and uses the following libraries and frameworks:
 
 - [Bootstrap](https://getbootstrap.com/) - Front-end framework for styling.
 - [jQuery](https://jquery.com/) - JavaScript library for DOM manipulation.
@@ -44,4 +44,4 @@ This project was inspired by the daily planner concept and uses the following li
 
 ## License
 
-This project is licensed under the MIT License# work-day-scheduler
+This project is licensed under the MIT License
